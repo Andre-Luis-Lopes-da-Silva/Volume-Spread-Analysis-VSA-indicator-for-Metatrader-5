@@ -151,3 +151,30 @@ VSA Example:
 
 
 
+**NOTE - These signs have yet to be implemented.** 
+
+
+Test Patterns
+Upthrust (False Breakout):
+◦ Moderate/high volume + resistance breakout that fails
+◦ Closing below the tested resistance
+
+Support/Resistance Test:
+◦ Low/moderate volume when testing key levels
+◦ Indicates a lack of interest in the breakout
+
+Effort vs. Result Patterns
+Effort Without Result (Up): High volume without significant price advance (distribution)
+
+Effort Without Result (Down): High volume without significant decline (accumulation)
+
+Special Patterns
+Pseudo-Upthrust: Similar to upthrust but with specific volume characteristics
+
+Weakness into Strength / Strength into Weakness: Counter-trend moves with revealing volume
+
+Continuation Patterns
+Increasing Volume in Trend: Confirms the current trend
+
+Decreasing Volume in Pullback: Indicates temporary weakness in the correction.
+
