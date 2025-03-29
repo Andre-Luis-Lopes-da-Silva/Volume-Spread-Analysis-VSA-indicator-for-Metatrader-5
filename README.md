@@ -108,7 +108,11 @@ Possible accumulation/distribution
 Often precedes strong market moves
 
 Summary Table:
+
+
 ![Image](https://github.com/user-attachments/assets/c4252eee-a3dd-4d7a-9d67-89a25316ac30)
+
+
 
 How to Use in Practice:
 Confirmation: Always wait for confirmation in the next candle
