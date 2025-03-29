@@ -1,5 +1,5 @@
 # Volume-Spread-Analysis-VSA-indicator-for-Metatrader-5
-Volume Spread Analysis (VSA) is a powerful trading methodology that examines the relationship between volume, price spread (range), and closing price to identify market reversals, continuations, and potential manipulation by "smart money." 
+**Volume Spread Analysis (VSA)** is a powerful trading methodology that examines the relationship between volume, price spread (range), and closing price to identify market reversals, continuations, and potential manipulation by "smart money." 
 
 Key Features of the VSA Indicator:
 
@@ -22,7 +22,7 @@ This indicator helps traders anticipate moves before they happen by analyzing th
 Meaning of Colors in the VSA Indicator
 Each color in your VSA indicator represents a specific Volume Spread Analysis (VSA) pattern, revealing important information about the dynamics between buyers and sellers:
 
-1. Red (SIG_NODEMAND - No Demand)
+**1. Red (SIG_NODEMAND - No Demand)**
 Meaning: Lack of buyer interest
 
 Condition:
@@ -39,7 +39,7 @@ Possible reversal to the downside
 
 The candle shows effort without results (high volume but little movement)
 
-2. Blue (SIG_NOSUPPLY - No Supply)
+**2. Blue (SIG_NOSUPPLY - No Supply)**
 Meaning: Lack of seller interest
 
 Condition:
@@ -56,7 +56,7 @@ Possible reversal to the upside
 
 Lack of selling pressure even at low prices
 
-3. Green (SIG_CLIMAXUP - Upthrust Climax)
+**3. Green (SIG_CLIMAXUP - Upthrust Climax)**
 Meaning: Excessive buying with possible exhaustion
 
 Condition:
@@ -73,7 +73,7 @@ Large players distributing positions
 
 High volume without follow-through
 
-4. Orange (SIG_CLIMAXDN - Downthrust Climax)
+**4. Orange (SIG_CLIMAXDN - Downthrust Climax)**
 Meaning: Excessive selling with possible exhaustion
 
 Condition:
@@ -90,7 +90,7 @@ Seller capitulation
 
 Reversal opportunity
 
-5. Purple (SIG_STOPVOL - Stopping Volume)
+**5. Purple (SIG_STOPVOL - Stopping Volume)**
 Meaning: Intervention by large players
 
 Condition:
@@ -108,12 +108,7 @@ Possible accumulation/distribution
 Often precedes strong market moves
 
 Summary Table:
-Color	Signal	Volume	Close Position	Interpretation
-Red	No Demand	↓ 50%	-	Weakness in an uptrend
-Blue	No Supply	↓ 50%	Lower third	Weakness in a downtrend
-Green	Climax Up	↑ 50%	Upper third	Buyer exhaustion
-Orange	Climax Down	↑ 50%	Lower third	Seller exhaustion
-Purple	Stopping Volume	↑ 20%	-	"Smart Money" intervention
+![Image](https://github.com/user-attachments/assets/c4252eee-a3dd-4d7a-9d67-89a25316ac30)
 
 How to Use in Practice:
 Confirmation: Always wait for confirmation in the next candle
