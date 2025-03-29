@@ -143,3 +143,11 @@ In conjunction with classic candlestick patterns
 
 Final Note:
 In VSA, volume is the primary indicator—price simply follows volume. These colors help quickly visualize who is controlling the market (buyers or sellers) and when this control might be shifting.
+
+VSA Example:
+
+
+![Image](https://github.com/user-attachments/assets/fdc1d710-c336-412d-9711-09e30c8b1a02)
+
+
+
